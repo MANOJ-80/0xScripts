@@ -40,8 +40,8 @@ Currently included:
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/MANOJ-80/Automation-Scripts.git
-cd Automation-Scripts
+git clone https://github.com/MANOJ-80/0xScripts.git
+cd 0xScripts
 ```
 
 ### 2. Make scripts executable
